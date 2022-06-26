@@ -2,6 +2,7 @@ import collections
 from typing import Deque
 
 
+
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         # 자료형 데크로 선언
