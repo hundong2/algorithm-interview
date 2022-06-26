@@ -11,3 +11,12 @@ class Solution:
                 return False
 
         return True
+
+# test Example code
+# > from Solution1 import Solution
+# > f = Solution()
+# > f.isPalindrome('12321')
+# > True
+# > f.isPalindrome('12333')
+# > False
+
