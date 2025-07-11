@@ -1,17 +1,11 @@
-<!-- TOC -->
-
-- [파이썬 알고리즘 인터뷰](#파이썬-알고리즘-인터뷰)
-    - [문제 풀이](#문제-풀이)
-    - [기타 코드](#기타-코드)
-    - [리트코드 변경 사항 및 보다 효율적인 풀이](#리트코드-변경-사항-및-보다-효율적인-풀이)
-
-<!-- /TOC -->
-
 # 파이썬 알고리즘 인터뷰
 
 95가지 알고리즘 문제 풀이로 완성하는 코딩 테스트
 
-![책표지](http://docs.likejazz.com/images/2020/book-cover.jpg)  
+★ 안내: 2023년 9월, [《자바 알고리즘 인터뷰 with 코틀린》](https://github.com/onlybooks/java-algorithm-interview) 신간이 출간되었습니다!
+
+<img src="http://docs.likejazz.com/images/2020/book-cover.jpg" width="40%">
+
 《파이썬 알고리즘 인터뷰》는 다음 판매처에서 구매하실 수 있습니다.
 - [교보문고](https://bit.ly/3feaYxi)
 - [YES24](https://bit.ly/3iGw8Gw)
@@ -27,6 +21,8 @@
 
 ☆ 학교나 학원에서 강의를 진행하시는 교수님/강사님께 제공 가능한 이 책의 강의 교안 자료가 준비되어 있습니다. (1) 성함, 연락처 (2) 강의처 (3) 강의 교과목 (4) 간단한 강의계획 등을 정리하셔서 support@onlybook.co.kr 이메일로 보내주십시오. 내용 검토 후 제공해드리겠습니다.
 
+★ 참고: 《자바 알고리즘 인터뷰 with 코틀린》 https://github.com/onlybooks/java-algorithm-interview
+
 ![마인드맵](https://user-images.githubusercontent.com/1250095/86745916-a62e9a00-c075-11ea-9aa5-8455e2527f87.png)
 
 ## 문제 풀이
@@ -41,7 +37,7 @@
 | 7 | [두 수의 합](https://leetcode.com/problems/two-sum/) | ★ | 7장. 배열 | [7-1.py](3-linear-data-structures/ch07/7-1.py)<br>[7-2.py](3-linear-data-structures/ch07/7-2.py)<br>[7-3.py](3-linear-data-structures/ch07/7-3.py)<br>[7-4.py](3-linear-data-structures/ch07/7-4.py)<br>[7-5.py](3-linear-data-structures/ch07/7-5.py)<br>[7-6.go](3-linear-data-structures/ch07/7-6.go) |
 | 8 | [빗물 트래핑](https://leetcode.com/problems/trapping-rain-water/) | ★★★ | 7장. 배열 | [8-1.py](3-linear-data-structures/ch07/8-1.py)<br>[8-2.py](3-linear-data-structures/ch07/8-2.py) |
 | 9 | [세 수의 합](https://leetcode.com/problems/3sum/) | ★★ | 7장. 배열 | [9-1.py](3-linear-data-structures/ch07/9-1.py)<br>[9-2.py](3-linear-data-structures/ch07/9-2.py) |
-| 10 | [배열 파티션 I](https://leetcode.com/problems/array-partition-i/) | ★ | 7장. 배열 | [10-1.py](3-linear-data-structures/ch07/10-1.py)<br>[10-2.py](3-linear-data-structures/ch07/10-2.py)<br>[10-3.py](3-linear-data-structures/ch07/10-3.py) |
+| 10 | [배열 파티션 I](https://leetcode.com/problems/array-partition/) | ★ | 7장. 배열 | [10-1.py](3-linear-data-structures/ch07/10-1.py)<br>[10-2.py](3-linear-data-structures/ch07/10-2.py)<br>[10-3.py](3-linear-data-structures/ch07/10-3.py) |
 | 11 | [자신을 제외한 배열의 곱](https://leetcode.com/problems/product-of-array-except-self/) | ★★ | 7장. 배열 | [11-1.py](3-linear-data-structures/ch07/11-1.py) |
 | 12 | [주식을 사고팔기 가장 좋은 시점](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ★ | 7장. 배열 | [12-1.py](3-linear-data-structures/ch07/12-1.py)<br>[12-2.py](3-linear-data-structures/ch07/12-2.py) |
 | 13 | [팰린드롬 연결 리스트](https://leetcode.com/problems/palindrome-linked-list/) | ★ | 8장. 연결 리스트 | [13-1.py](3-linear-data-structures/ch08/13-1.py)<br>[13-2.py](3-linear-data-structures/ch08/13-2.py)<br>[13-3.go](3-linear-data-structures/ch08/13-3.go)<br>[13-4.py](3-linear-data-structures/ch08/13-4.py) |
